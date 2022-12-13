@@ -1,1 +1,2 @@
-# practical
+#notes
+user can wriite notes 
